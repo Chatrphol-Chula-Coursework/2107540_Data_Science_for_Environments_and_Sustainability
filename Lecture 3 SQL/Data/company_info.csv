@@ -1,0 +1,1001 @@
+company_id,company_name,industry,region
+1,Company_1,Retail,Latin America
+2,Company_2,Retail,Asia
+3,Company_3,Transportation,Latin America
+4,Company_4,Technology,Africa
+5,Company_5,Finance,Middle East
+6,Company_6,Transportation,Oceania
+7,Company_7,Healthcare,Oceania
+8,Company_8,Healthcare,Europe
+9,Company_9,Technology,North America
+10,Company_10,Technology,Latin America
+11,Company_11,Energy,Europe
+12,Company_12,Finance,Asia
+13,Company_13,Consumer Goods,Asia
+14,Company_14,Transportation,Middle East
+15,Company_15,Healthcare,Oceania
+16,Company_16,Energy,Europe
+17,Company_17,Utilities,Oceania
+18,Company_18,Energy,Europe
+19,Company_19,Technology,Latin America
+20,Company_20,Technology,North America
+21,Company_21,Energy,Asia
+22,Company_22,Manufacturing,Latin America
+23,Company_23,Healthcare,Asia
+24,Company_24,Technology,Middle East
+25,Company_25,Utilities,Middle East
+26,Company_26,Healthcare,Asia
+27,Company_27,Healthcare,Europe
+28,Company_28,Technology,Latin America
+29,Company_29,Transportation,Oceania
+30,Company_30,Transportation,Middle East
+31,Company_31,Transportation,Middle East
+32,Company_32,Utilities,North America
+33,Company_33,Finance,North America
+34,Company_34,Energy,Middle East
+35,Company_35,Healthcare,Middle East
+36,Company_36,Healthcare,Europe
+37,Company_37,Energy,Oceania
+38,Company_38,Energy,Africa
+39,Company_39,Transportation,Latin America
+40,Company_40,Transportation,Oceania
+41,Company_41,Energy,North America
+42,Company_42,Energy,North America
+43,Company_43,Transportation,Europe
+44,Company_44,Healthcare,Oceania
+45,Company_45,Retail,Africa
+46,Company_46,Healthcare,Middle East
+47,Company_47,Consumer Goods,Africa
+48,Company_48,Technology,Latin America
+49,Company_49,Retail,Middle East
+50,Company_50,Consumer Goods,North America
+51,Company_51,Transportation,Middle East
+52,Company_52,Consumer Goods,Oceania
+53,Company_53,Utilities,North America
+54,Company_54,Healthcare,Oceania
+55,Company_55,Finance,Latin America
+56,Company_56,Utilities,North America
+57,Company_57,Utilities,Middle East
+58,Company_58,Transportation,Oceania
+59,Company_59,Utilities,Africa
+60,Company_60,Manufacturing,Middle East
+61,Company_61,Consumer Goods,Oceania
+62,Company_62,Technology,Asia
+63,Company_63,Consumer Goods,Europe
+64,Company_64,Consumer Goods,Asia
+65,Company_65,Transportation,Europe
+66,Company_66,Consumer Goods,Middle East
+67,Company_67,Manufacturing,Middle East
+68,Company_68,Manufacturing,Middle East
+69,Company_69,Energy,North America
+70,Company_70,Retail,Africa
+71,Company_71,Consumer Goods,Latin America
+72,Company_72,Utilities,Latin America
+73,Company_73,Transportation,Asia
+74,Company_74,Energy,Europe
+75,Company_75,Technology,North America
+76,Company_76,Technology,North America
+77,Company_77,Utilities,Africa
+78,Company_78,Technology,Latin America
+79,Company_79,Healthcare,North America
+80,Company_80,Utilities,Europe
+81,Company_81,Healthcare,Europe
+82,Company_82,Technology,Middle East
+83,Company_83,Healthcare,Oceania
+84,Company_84,Consumer Goods,Middle East
+85,Company_85,Manufacturing,Asia
+86,Company_86,Finance,Asia
+87,Company_87,Technology,Oceania
+88,Company_88,Manufacturing,North America
+89,Company_89,Utilities,Europe
+90,Company_90,Energy,Africa
+91,Company_91,Manufacturing,Europe
+92,Company_92,Healthcare,Asia
+93,Company_93,Retail,Latin America
+94,Company_94,Utilities,North America
+95,Company_95,Retail,North America
+96,Company_96,Manufacturing,Middle East
+97,Company_97,Consumer Goods,Middle East
+98,Company_98,Energy,North America
+99,Company_99,Healthcare,Asia
+100,Company_100,Manufacturing,North America
+101,Company_101,Energy,Oceania
+102,Company_102,Retail,Africa
+103,Company_103,Retail,Africa
+104,Company_104,Technology,Europe
+105,Company_105,Finance,Africa
+106,Company_106,Manufacturing,Europe
+107,Company_107,Finance,Asia
+108,Company_108,Healthcare,North America
+109,Company_109,Energy,Africa
+110,Company_110,Healthcare,Middle East
+111,Company_111,Finance,Africa
+112,Company_112,Retail,Europe
+113,Company_113,Manufacturing,Latin America
+114,Company_114,Energy,North America
+115,Company_115,Consumer Goods,Europe
+116,Company_116,Retail,Asia
+117,Company_117,Retail,Asia
+118,Company_118,Retail,Asia
+119,Company_119,Consumer Goods,Middle East
+120,Company_120,Consumer Goods,Asia
+121,Company_121,Retail,Oceania
+122,Company_122,Energy,Europe
+123,Company_123,Technology,Middle East
+124,Company_124,Manufacturing,Africa
+125,Company_125,Finance,Middle East
+126,Company_126,Manufacturing,Oceania
+127,Company_127,Consumer Goods,Asia
+128,Company_128,Utilities,Africa
+129,Company_129,Healthcare,Africa
+130,Company_130,Manufacturing,Asia
+131,Company_131,Finance,Latin America
+132,Company_132,Consumer Goods,Oceania
+133,Company_133,Consumer Goods,Europe
+134,Company_134,Healthcare,Asia
+135,Company_135,Transportation,Asia
+136,Company_136,Manufacturing,Latin America
+137,Company_137,Manufacturing,Oceania
+138,Company_138,Energy,Latin America
+139,Company_139,Retail,Europe
+140,Company_140,Manufacturing,Europe
+141,Company_141,Energy,Africa
+142,Company_142,Finance,North America
+143,Company_143,Consumer Goods,Oceania
+144,Company_144,Utilities,Oceania
+145,Company_145,Energy,Middle East
+146,Company_146,Consumer Goods,Africa
+147,Company_147,Energy,Latin America
+148,Company_148,Healthcare,Middle East
+149,Company_149,Technology,Africa
+150,Company_150,Manufacturing,North America
+151,Company_151,Healthcare,Latin America
+152,Company_152,Technology,Latin America
+153,Company_153,Consumer Goods,Oceania
+154,Company_154,Manufacturing,Asia
+155,Company_155,Finance,Latin America
+156,Company_156,Technology,Asia
+157,Company_157,Consumer Goods,Europe
+158,Company_158,Energy,Oceania
+159,Company_159,Consumer Goods,North America
+160,Company_160,Utilities,Latin America
+161,Company_161,Technology,Europe
+162,Company_162,Technology,North America
+163,Company_163,Energy,Asia
+164,Company_164,Retail,Oceania
+165,Company_165,Manufacturing,Latin America
+166,Company_166,Energy,Latin America
+167,Company_167,Energy,North America
+168,Company_168,Healthcare,North America
+169,Company_169,Consumer Goods,Latin America
+170,Company_170,Energy,Europe
+171,Company_171,Utilities,Oceania
+172,Company_172,Energy,Asia
+173,Company_173,Transportation,Europe
+174,Company_174,Transportation,Africa
+175,Company_175,Finance,Latin America
+176,Company_176,Healthcare,Oceania
+177,Company_177,Manufacturing,North America
+178,Company_178,Transportation,Latin America
+179,Company_179,Finance,Europe
+180,Company_180,Utilities,Latin America
+181,Company_181,Finance,Oceania
+182,Company_182,Manufacturing,North America
+183,Company_183,Retail,Europe
+184,Company_184,Utilities,Europe
+185,Company_185,Transportation,Latin America
+186,Company_186,Manufacturing,Middle East
+187,Company_187,Utilities,Africa
+188,Company_188,Consumer Goods,Oceania
+189,Company_189,Healthcare,Asia
+190,Company_190,Technology,North America
+191,Company_191,Manufacturing,Oceania
+192,Company_192,Consumer Goods,Asia
+193,Company_193,Manufacturing,Asia
+194,Company_194,Manufacturing,Oceania
+195,Company_195,Transportation,Middle East
+196,Company_196,Healthcare,Oceania
+197,Company_197,Energy,Latin America
+198,Company_198,Manufacturing,North America
+199,Company_199,Retail,Latin America
+200,Company_200,Consumer Goods,Asia
+201,Company_201,Utilities,Europe
+202,Company_202,Utilities,Latin America
+203,Company_203,Energy,Oceania
+204,Company_204,Retail,Middle East
+205,Company_205,Energy,Asia
+206,Company_206,Manufacturing,North America
+207,Company_207,Consumer Goods,North America
+208,Company_208,Manufacturing,Middle East
+209,Company_209,Consumer Goods,North America
+210,Company_210,Retail,Oceania
+211,Company_211,Consumer Goods,Oceania
+212,Company_212,Consumer Goods,Asia
+213,Company_213,Technology,Europe
+214,Company_214,Utilities,Asia
+215,Company_215,Utilities,North America
+216,Company_216,Transportation,Asia
+217,Company_217,Manufacturing,Oceania
+218,Company_218,Utilities,Middle East
+219,Company_219,Transportation,Middle East
+220,Company_220,Transportation,Oceania
+221,Company_221,Healthcare,Middle East
+222,Company_222,Technology,Asia
+223,Company_223,Transportation,Latin America
+224,Company_224,Manufacturing,Europe
+225,Company_225,Retail,Europe
+226,Company_226,Healthcare,Middle East
+227,Company_227,Transportation,Asia
+228,Company_228,Finance,Africa
+229,Company_229,Finance,Africa
+230,Company_230,Transportation,Europe
+231,Company_231,Technology,Europe
+232,Company_232,Manufacturing,Asia
+233,Company_233,Transportation,Africa
+234,Company_234,Utilities,Asia
+235,Company_235,Healthcare,Middle East
+236,Company_236,Retail,Asia
+237,Company_237,Finance,Asia
+238,Company_238,Retail,Middle East
+239,Company_239,Manufacturing,Latin America
+240,Company_240,Transportation,Oceania
+241,Company_241,Finance,Asia
+242,Company_242,Finance,Latin America
+243,Company_243,Transportation,Asia
+244,Company_244,Energy,Europe
+245,Company_245,Finance,Oceania
+246,Company_246,Consumer Goods,Oceania
+247,Company_247,Consumer Goods,Asia
+248,Company_248,Energy,Latin America
+249,Company_249,Healthcare,Asia
+250,Company_250,Manufacturing,Middle East
+251,Company_251,Transportation,Asia
+252,Company_252,Consumer Goods,North America
+253,Company_253,Technology,Oceania
+254,Company_254,Retail,Asia
+255,Company_255,Consumer Goods,Oceania
+256,Company_256,Manufacturing,Middle East
+257,Company_257,Finance,Latin America
+258,Company_258,Healthcare,Latin America
+259,Company_259,Healthcare,North America
+260,Company_260,Consumer Goods,Latin America
+261,Company_261,Utilities,Asia
+262,Company_262,Transportation,Oceania
+263,Company_263,Utilities,Africa
+264,Company_264,Consumer Goods,Middle East
+265,Company_265,Manufacturing,Middle East
+266,Company_266,Technology,Oceania
+267,Company_267,Retail,North America
+268,Company_268,Technology,Europe
+269,Company_269,Healthcare,Latin America
+270,Company_270,Manufacturing,Asia
+271,Company_271,Healthcare,Europe
+272,Company_272,Energy,Oceania
+273,Company_273,Transportation,Latin America
+274,Company_274,Transportation,Asia
+275,Company_275,Healthcare,Middle East
+276,Company_276,Transportation,North America
+277,Company_277,Transportation,Middle East
+278,Company_278,Utilities,Europe
+279,Company_279,Consumer Goods,Africa
+280,Company_280,Transportation,Africa
+281,Company_281,Healthcare,Middle East
+282,Company_282,Transportation,Latin America
+283,Company_283,Retail,Asia
+284,Company_284,Retail,Asia
+285,Company_285,Energy,Latin America
+286,Company_286,Transportation,North America
+287,Company_287,Transportation,Africa
+288,Company_288,Technology,Asia
+289,Company_289,Healthcare,Asia
+290,Company_290,Transportation,Africa
+291,Company_291,Technology,Oceania
+292,Company_292,Utilities,Asia
+293,Company_293,Finance,North America
+294,Company_294,Healthcare,Oceania
+295,Company_295,Finance,Europe
+296,Company_296,Utilities,Latin America
+297,Company_297,Retail,Africa
+298,Company_298,Utilities,Middle East
+299,Company_299,Consumer Goods,North America
+300,Company_300,Manufacturing,Europe
+301,Company_301,Finance,Middle East
+302,Company_302,Energy,Latin America
+303,Company_303,Energy,Oceania
+304,Company_304,Technology,Asia
+305,Company_305,Manufacturing,Latin America
+306,Company_306,Healthcare,Latin America
+307,Company_307,Finance,Middle East
+308,Company_308,Finance,Asia
+309,Company_309,Transportation,North America
+310,Company_310,Energy,Africa
+311,Company_311,Consumer Goods,Middle East
+312,Company_312,Consumer Goods,Europe
+313,Company_313,Utilities,Europe
+314,Company_314,Consumer Goods,Latin America
+315,Company_315,Utilities,Asia
+316,Company_316,Healthcare,Africa
+317,Company_317,Technology,Middle East
+318,Company_318,Transportation,Europe
+319,Company_319,Finance,Africa
+320,Company_320,Technology,Middle East
+321,Company_321,Energy,Africa
+322,Company_322,Consumer Goods,Middle East
+323,Company_323,Healthcare,Europe
+324,Company_324,Energy,Middle East
+325,Company_325,Finance,Europe
+326,Company_326,Finance,Asia
+327,Company_327,Retail,Latin America
+328,Company_328,Retail,Asia
+329,Company_329,Finance,Oceania
+330,Company_330,Transportation,Asia
+331,Company_331,Consumer Goods,Africa
+332,Company_332,Utilities,Africa
+333,Company_333,Technology,Africa
+334,Company_334,Technology,Africa
+335,Company_335,Utilities,Latin America
+336,Company_336,Retail,North America
+337,Company_337,Finance,Africa
+338,Company_338,Energy,Africa
+339,Company_339,Finance,Europe
+340,Company_340,Consumer Goods,Oceania
+341,Company_341,Finance,Middle East
+342,Company_342,Energy,Africa
+343,Company_343,Finance,Asia
+344,Company_344,Technology,Africa
+345,Company_345,Consumer Goods,Oceania
+346,Company_346,Transportation,Asia
+347,Company_347,Technology,Asia
+348,Company_348,Healthcare,Latin America
+349,Company_349,Utilities,Europe
+350,Company_350,Utilities,Latin America
+351,Company_351,Utilities,Europe
+352,Company_352,Finance,Asia
+353,Company_353,Finance,Europe
+354,Company_354,Manufacturing,Oceania
+355,Company_355,Technology,North America
+356,Company_356,Consumer Goods,Europe
+357,Company_357,Transportation,North America
+358,Company_358,Utilities,Middle East
+359,Company_359,Consumer Goods,Latin America
+360,Company_360,Retail,North America
+361,Company_361,Energy,Europe
+362,Company_362,Technology,Africa
+363,Company_363,Manufacturing,Asia
+364,Company_364,Utilities,North America
+365,Company_365,Retail,North America
+366,Company_366,Manufacturing,Africa
+367,Company_367,Utilities,Latin America
+368,Company_368,Finance,Europe
+369,Company_369,Utilities,Europe
+370,Company_370,Technology,Middle East
+371,Company_371,Retail,Middle East
+372,Company_372,Energy,Latin America
+373,Company_373,Energy,Africa
+374,Company_374,Healthcare,Africa
+375,Company_375,Transportation,Middle East
+376,Company_376,Technology,Oceania
+377,Company_377,Consumer Goods,Europe
+378,Company_378,Technology,Oceania
+379,Company_379,Manufacturing,Africa
+380,Company_380,Retail,Europe
+381,Company_381,Utilities,Oceania
+382,Company_382,Energy,Asia
+383,Company_383,Energy,Middle East
+384,Company_384,Healthcare,Oceania
+385,Company_385,Transportation,Oceania
+386,Company_386,Utilities,Asia
+387,Company_387,Consumer Goods,Europe
+388,Company_388,Manufacturing,Middle East
+389,Company_389,Energy,Middle East
+390,Company_390,Energy,Asia
+391,Company_391,Retail,Oceania
+392,Company_392,Consumer Goods,Latin America
+393,Company_393,Transportation,North America
+394,Company_394,Transportation,Oceania
+395,Company_395,Consumer Goods,North America
+396,Company_396,Finance,North America
+397,Company_397,Consumer Goods,Latin America
+398,Company_398,Finance,Latin America
+399,Company_399,Energy,North America
+400,Company_400,Manufacturing,Africa
+401,Company_401,Energy,Europe
+402,Company_402,Technology,Asia
+403,Company_403,Retail,Middle East
+404,Company_404,Healthcare,Middle East
+405,Company_405,Finance,Europe
+406,Company_406,Utilities,Asia
+407,Company_407,Healthcare,North America
+408,Company_408,Retail,Asia
+409,Company_409,Healthcare,Europe
+410,Company_410,Manufacturing,Africa
+411,Company_411,Healthcare,Africa
+412,Company_412,Energy,Latin America
+413,Company_413,Consumer Goods,North America
+414,Company_414,Retail,Oceania
+415,Company_415,Energy,North America
+416,Company_416,Healthcare,Middle East
+417,Company_417,Transportation,Middle East
+418,Company_418,Manufacturing,Oceania
+419,Company_419,Healthcare,North America
+420,Company_420,Manufacturing,Africa
+421,Company_421,Retail,Africa
+422,Company_422,Energy,Europe
+423,Company_423,Healthcare,Oceania
+424,Company_424,Finance,Europe
+425,Company_425,Consumer Goods,Middle East
+426,Company_426,Transportation,Middle East
+427,Company_427,Manufacturing,Asia
+428,Company_428,Manufacturing,Oceania
+429,Company_429,Finance,North America
+430,Company_430,Healthcare,Oceania
+431,Company_431,Consumer Goods,Asia
+432,Company_432,Technology,North America
+433,Company_433,Retail,Middle East
+434,Company_434,Transportation,Latin America
+435,Company_435,Retail,Middle East
+436,Company_436,Finance,Latin America
+437,Company_437,Technology,Africa
+438,Company_438,Transportation,Asia
+439,Company_439,Utilities,North America
+440,Company_440,Retail,Oceania
+441,Company_441,Finance,North America
+442,Company_442,Consumer Goods,Latin America
+443,Company_443,Consumer Goods,Oceania
+444,Company_444,Finance,Europe
+445,Company_445,Finance,Europe
+446,Company_446,Manufacturing,Oceania
+447,Company_447,Utilities,North America
+448,Company_448,Finance,Middle East
+449,Company_449,Manufacturing,Oceania
+450,Company_450,Utilities,Europe
+451,Company_451,Consumer Goods,Oceania
+452,Company_452,Consumer Goods,Asia
+453,Company_453,Energy,Middle East
+454,Company_454,Manufacturing,Middle East
+455,Company_455,Consumer Goods,Latin America
+456,Company_456,Utilities,Asia
+457,Company_457,Transportation,North America
+458,Company_458,Transportation,Asia
+459,Company_459,Transportation,Middle East
+460,Company_460,Technology,North America
+461,Company_461,Technology,Oceania
+462,Company_462,Technology,North America
+463,Company_463,Technology,Latin America
+464,Company_464,Energy,Europe
+465,Company_465,Retail,Oceania
+466,Company_466,Consumer Goods,Oceania
+467,Company_467,Manufacturing,Middle East
+468,Company_468,Utilities,Asia
+469,Company_469,Retail,Middle East
+470,Company_470,Technology,North America
+471,Company_471,Utilities,Africa
+472,Company_472,Healthcare,Europe
+473,Company_473,Retail,Asia
+474,Company_474,Consumer Goods,Latin America
+475,Company_475,Technology,Asia
+476,Company_476,Retail,Asia
+477,Company_477,Manufacturing,Latin America
+478,Company_478,Finance,Europe
+479,Company_479,Transportation,Oceania
+480,Company_480,Retail,Middle East
+481,Company_481,Transportation,Middle East
+482,Company_482,Energy,Europe
+483,Company_483,Transportation,Asia
+484,Company_484,Manufacturing,Africa
+485,Company_485,Finance,Africa
+486,Company_486,Healthcare,Middle East
+487,Company_487,Technology,Europe
+488,Company_488,Utilities,Oceania
+489,Company_489,Consumer Goods,Asia
+490,Company_490,Retail,Africa
+491,Company_491,Transportation,Latin America
+492,Company_492,Manufacturing,Africa
+493,Company_493,Energy,Latin America
+494,Company_494,Consumer Goods,Africa
+495,Company_495,Consumer Goods,Latin America
+496,Company_496,Manufacturing,North America
+497,Company_497,Utilities,Africa
+498,Company_498,Technology,Europe
+499,Company_499,Transportation,Asia
+500,Company_500,Utilities,Middle East
+501,Company_501,Retail,Europe
+502,Company_502,Manufacturing,Asia
+503,Company_503,Manufacturing,North America
+504,Company_504,Retail,Europe
+505,Company_505,Transportation,North America
+506,Company_506,Retail,North America
+507,Company_507,Manufacturing,Europe
+508,Company_508,Utilities,Europe
+509,Company_509,Technology,Europe
+510,Company_510,Utilities,Middle East
+511,Company_511,Healthcare,Europe
+512,Company_512,Finance,Middle East
+513,Company_513,Healthcare,Europe
+514,Company_514,Energy,Latin America
+515,Company_515,Finance,Africa
+516,Company_516,Utilities,North America
+517,Company_517,Finance,Latin America
+518,Company_518,Utilities,Middle East
+519,Company_519,Retail,Middle East
+520,Company_520,Manufacturing,Latin America
+521,Company_521,Technology,Middle East
+522,Company_522,Transportation,Oceania
+523,Company_523,Consumer Goods,North America
+524,Company_524,Transportation,Middle East
+525,Company_525,Utilities,North America
+526,Company_526,Utilities,Asia
+527,Company_527,Retail,Asia
+528,Company_528,Utilities,Oceania
+529,Company_529,Finance,Asia
+530,Company_530,Manufacturing,Asia
+531,Company_531,Consumer Goods,Oceania
+532,Company_532,Retail,North America
+533,Company_533,Technology,Middle East
+534,Company_534,Manufacturing,Africa
+535,Company_535,Energy,Asia
+536,Company_536,Transportation,Middle East
+537,Company_537,Retail,Europe
+538,Company_538,Transportation,Middle East
+539,Company_539,Healthcare,Europe
+540,Company_540,Utilities,Oceania
+541,Company_541,Technology,Asia
+542,Company_542,Transportation,Asia
+543,Company_543,Energy,North America
+544,Company_544,Energy,Latin America
+545,Company_545,Manufacturing,North America
+546,Company_546,Energy,Asia
+547,Company_547,Energy,Latin America
+548,Company_548,Retail,Middle East
+549,Company_549,Utilities,North America
+550,Company_550,Consumer Goods,Asia
+551,Company_551,Retail,Middle East
+552,Company_552,Consumer Goods,Asia
+553,Company_553,Retail,Africa
+554,Company_554,Manufacturing,Europe
+555,Company_555,Energy,Africa
+556,Company_556,Transportation,Asia
+557,Company_557,Healthcare,North America
+558,Company_558,Finance,Middle East
+559,Company_559,Manufacturing,Middle East
+560,Company_560,Technology,Latin America
+561,Company_561,Healthcare,Africa
+562,Company_562,Transportation,Africa
+563,Company_563,Energy,Africa
+564,Company_564,Energy,Africa
+565,Company_565,Utilities,Europe
+566,Company_566,Healthcare,North America
+567,Company_567,Healthcare,Oceania
+568,Company_568,Healthcare,Africa
+569,Company_569,Energy,Asia
+570,Company_570,Energy,Latin America
+571,Company_571,Retail,Middle East
+572,Company_572,Retail,Latin America
+573,Company_573,Energy,North America
+574,Company_574,Transportation,Latin America
+575,Company_575,Energy,Africa
+576,Company_576,Finance,Asia
+577,Company_577,Manufacturing,Oceania
+578,Company_578,Transportation,Middle East
+579,Company_579,Retail,Africa
+580,Company_580,Technology,Latin America
+581,Company_581,Energy,Oceania
+582,Company_582,Healthcare,Oceania
+583,Company_583,Healthcare,Africa
+584,Company_584,Healthcare,Latin America
+585,Company_585,Energy,Asia
+586,Company_586,Transportation,Africa
+587,Company_587,Healthcare,North America
+588,Company_588,Energy,Africa
+589,Company_589,Finance,North America
+590,Company_590,Manufacturing,North America
+591,Company_591,Manufacturing,Oceania
+592,Company_592,Utilities,Latin America
+593,Company_593,Manufacturing,Africa
+594,Company_594,Utilities,Europe
+595,Company_595,Consumer Goods,Oceania
+596,Company_596,Technology,Europe
+597,Company_597,Consumer Goods,Asia
+598,Company_598,Utilities,North America
+599,Company_599,Transportation,Latin America
+600,Company_600,Technology,Africa
+601,Company_601,Retail,Asia
+602,Company_602,Technology,North America
+603,Company_603,Utilities,North America
+604,Company_604,Retail,Latin America
+605,Company_605,Energy,Oceania
+606,Company_606,Transportation,Europe
+607,Company_607,Healthcare,Europe
+608,Company_608,Finance,Latin America
+609,Company_609,Manufacturing,Latin America
+610,Company_610,Technology,Europe
+611,Company_611,Energy,Latin America
+612,Company_612,Utilities,Oceania
+613,Company_613,Consumer Goods,North America
+614,Company_614,Finance,Asia
+615,Company_615,Transportation,Europe
+616,Company_616,Retail,Middle East
+617,Company_617,Healthcare,Asia
+618,Company_618,Utilities,Latin America
+619,Company_619,Healthcare,Oceania
+620,Company_620,Retail,Oceania
+621,Company_621,Transportation,North America
+622,Company_622,Transportation,Latin America
+623,Company_623,Consumer Goods,North America
+624,Company_624,Healthcare,Africa
+625,Company_625,Energy,Middle East
+626,Company_626,Healthcare,Europe
+627,Company_627,Transportation,Africa
+628,Company_628,Energy,Europe
+629,Company_629,Retail,Latin America
+630,Company_630,Consumer Goods,Africa
+631,Company_631,Manufacturing,North America
+632,Company_632,Transportation,Europe
+633,Company_633,Utilities,Europe
+634,Company_634,Healthcare,Europe
+635,Company_635,Transportation,Latin America
+636,Company_636,Consumer Goods,Latin America
+637,Company_637,Utilities,Oceania
+638,Company_638,Healthcare,Oceania
+639,Company_639,Healthcare,Latin America
+640,Company_640,Finance,Africa
+641,Company_641,Manufacturing,Latin America
+642,Company_642,Retail,Europe
+643,Company_643,Manufacturing,Asia
+644,Company_644,Transportation,Africa
+645,Company_645,Finance,Middle East
+646,Company_646,Energy,Europe
+647,Company_647,Energy,North America
+648,Company_648,Utilities,Middle East
+649,Company_649,Finance,Oceania
+650,Company_650,Healthcare,Asia
+651,Company_651,Energy,Oceania
+652,Company_652,Finance,Latin America
+653,Company_653,Energy,North America
+654,Company_654,Energy,Oceania
+655,Company_655,Finance,Middle East
+656,Company_656,Finance,Latin America
+657,Company_657,Manufacturing,Europe
+658,Company_658,Utilities,North America
+659,Company_659,Technology,Middle East
+660,Company_660,Consumer Goods,Africa
+661,Company_661,Retail,Europe
+662,Company_662,Finance,Middle East
+663,Company_663,Finance,Asia
+664,Company_664,Finance,Latin America
+665,Company_665,Technology,Asia
+666,Company_666,Finance,Middle East
+667,Company_667,Consumer Goods,North America
+668,Company_668,Retail,Middle East
+669,Company_669,Retail,Middle East
+670,Company_670,Technology,Middle East
+671,Company_671,Technology,Middle East
+672,Company_672,Finance,Middle East
+673,Company_673,Healthcare,Latin America
+674,Company_674,Finance,Africa
+675,Company_675,Transportation,Europe
+676,Company_676,Transportation,Middle East
+677,Company_677,Utilities,Oceania
+678,Company_678,Retail,Europe
+679,Company_679,Retail,Latin America
+680,Company_680,Healthcare,Oceania
+681,Company_681,Consumer Goods,North America
+682,Company_682,Technology,Middle East
+683,Company_683,Manufacturing,Asia
+684,Company_684,Finance,Europe
+685,Company_685,Energy,North America
+686,Company_686,Transportation,Middle East
+687,Company_687,Retail,Oceania
+688,Company_688,Technology,Asia
+689,Company_689,Finance,Asia
+690,Company_690,Finance,Europe
+691,Company_691,Healthcare,Latin America
+692,Company_692,Healthcare,Asia
+693,Company_693,Retail,Africa
+694,Company_694,Consumer Goods,North America
+695,Company_695,Manufacturing,Latin America
+696,Company_696,Healthcare,Asia
+697,Company_697,Healthcare,North America
+698,Company_698,Retail,Oceania
+699,Company_699,Transportation,Oceania
+700,Company_700,Technology,Asia
+701,Company_701,Transportation,Europe
+702,Company_702,Manufacturing,Latin America
+703,Company_703,Retail,Oceania
+704,Company_704,Utilities,Europe
+705,Company_705,Consumer Goods,Africa
+706,Company_706,Healthcare,North America
+707,Company_707,Utilities,Europe
+708,Company_708,Retail,North America
+709,Company_709,Finance,North America
+710,Company_710,Manufacturing,Middle East
+711,Company_711,Consumer Goods,Africa
+712,Company_712,Healthcare,Asia
+713,Company_713,Energy,Oceania
+714,Company_714,Transportation,Latin America
+715,Company_715,Technology,North America
+716,Company_716,Retail,Africa
+717,Company_717,Energy,North America
+718,Company_718,Healthcare,Middle East
+719,Company_719,Retail,North America
+720,Company_720,Energy,Asia
+721,Company_721,Manufacturing,Asia
+722,Company_722,Healthcare,Asia
+723,Company_723,Manufacturing,Asia
+724,Company_724,Retail,North America
+725,Company_725,Finance,Oceania
+726,Company_726,Healthcare,Africa
+727,Company_727,Retail,Latin America
+728,Company_728,Retail,North America
+729,Company_729,Consumer Goods,Oceania
+730,Company_730,Manufacturing,North America
+731,Company_731,Finance,Middle East
+732,Company_732,Transportation,Latin America
+733,Company_733,Utilities,Latin America
+734,Company_734,Consumer Goods,Oceania
+735,Company_735,Finance,Middle East
+736,Company_736,Finance,Europe
+737,Company_737,Technology,Asia
+738,Company_738,Consumer Goods,Middle East
+739,Company_739,Utilities,Asia
+740,Company_740,Manufacturing,Africa
+741,Company_741,Retail,Latin America
+742,Company_742,Transportation,Oceania
+743,Company_743,Finance,Europe
+744,Company_744,Transportation,North America
+745,Company_745,Utilities,Middle East
+746,Company_746,Transportation,North America
+747,Company_747,Manufacturing,Oceania
+748,Company_748,Healthcare,Middle East
+749,Company_749,Retail,North America
+750,Company_750,Finance,Africa
+751,Company_751,Transportation,Asia
+752,Company_752,Healthcare,Latin America
+753,Company_753,Healthcare,Europe
+754,Company_754,Transportation,Asia
+755,Company_755,Finance,North America
+756,Company_756,Technology,Middle East
+757,Company_757,Transportation,North America
+758,Company_758,Healthcare,Latin America
+759,Company_759,Energy,Oceania
+760,Company_760,Manufacturing,Europe
+761,Company_761,Technology,Africa
+762,Company_762,Technology,North America
+763,Company_763,Technology,Oceania
+764,Company_764,Energy,Africa
+765,Company_765,Transportation,Asia
+766,Company_766,Finance,Asia
+767,Company_767,Finance,North America
+768,Company_768,Healthcare,Middle East
+769,Company_769,Manufacturing,North America
+770,Company_770,Retail,North America
+771,Company_771,Transportation,Middle East
+772,Company_772,Transportation,Asia
+773,Company_773,Manufacturing,Europe
+774,Company_774,Utilities,Africa
+775,Company_775,Manufacturing,Europe
+776,Company_776,Consumer Goods,Asia
+777,Company_777,Utilities,Middle East
+778,Company_778,Finance,Oceania
+779,Company_779,Retail,Europe
+780,Company_780,Transportation,Africa
+781,Company_781,Technology,Asia
+782,Company_782,Finance,Middle East
+783,Company_783,Manufacturing,Middle East
+784,Company_784,Manufacturing,Africa
+785,Company_785,Retail,Asia
+786,Company_786,Energy,North America
+787,Company_787,Utilities,North America
+788,Company_788,Finance,North America
+789,Company_789,Utilities,Asia
+790,Company_790,Finance,Latin America
+791,Company_791,Retail,Europe
+792,Company_792,Finance,Africa
+793,Company_793,Manufacturing,Africa
+794,Company_794,Technology,North America
+795,Company_795,Technology,Europe
+796,Company_796,Healthcare,Europe
+797,Company_797,Manufacturing,North America
+798,Company_798,Transportation,Oceania
+799,Company_799,Consumer Goods,Oceania
+800,Company_800,Transportation,Asia
+801,Company_801,Finance,Africa
+802,Company_802,Consumer Goods,Oceania
+803,Company_803,Consumer Goods,Africa
+804,Company_804,Energy,Europe
+805,Company_805,Healthcare,Middle East
+806,Company_806,Finance,North America
+807,Company_807,Transportation,Asia
+808,Company_808,Technology,North America
+809,Company_809,Utilities,Asia
+810,Company_810,Healthcare,Africa
+811,Company_811,Finance,Asia
+812,Company_812,Manufacturing,North America
+813,Company_813,Finance,Europe
+814,Company_814,Consumer Goods,Latin America
+815,Company_815,Technology,North America
+816,Company_816,Manufacturing,Middle East
+817,Company_817,Energy,North America
+818,Company_818,Consumer Goods,Africa
+819,Company_819,Finance,Asia
+820,Company_820,Energy,Europe
+821,Company_821,Manufacturing,Africa
+822,Company_822,Finance,Latin America
+823,Company_823,Retail,Europe
+824,Company_824,Transportation,Oceania
+825,Company_825,Utilities,Middle East
+826,Company_826,Transportation,Latin America
+827,Company_827,Retail,Latin America
+828,Company_828,Technology,Oceania
+829,Company_829,Manufacturing,Oceania
+830,Company_830,Manufacturing,Africa
+831,Company_831,Manufacturing,Oceania
+832,Company_832,Consumer Goods,Africa
+833,Company_833,Consumer Goods,North America
+834,Company_834,Technology,Oceania
+835,Company_835,Healthcare,Middle East
+836,Company_836,Retail,Europe
+837,Company_837,Healthcare,Latin America
+838,Company_838,Finance,Latin America
+839,Company_839,Manufacturing,Oceania
+840,Company_840,Utilities,Africa
+841,Company_841,Energy,Africa
+842,Company_842,Healthcare,North America
+843,Company_843,Retail,Middle East
+844,Company_844,Utilities,Africa
+845,Company_845,Retail,Middle East
+846,Company_846,Energy,Middle East
+847,Company_847,Finance,Oceania
+848,Company_848,Manufacturing,Asia
+849,Company_849,Technology,Africa
+850,Company_850,Healthcare,Latin America
+851,Company_851,Energy,Oceania
+852,Company_852,Energy,Latin America
+853,Company_853,Energy,North America
+854,Company_854,Manufacturing,Asia
+855,Company_855,Healthcare,Latin America
+856,Company_856,Healthcare,Europe
+857,Company_857,Retail,Europe
+858,Company_858,Finance,Oceania
+859,Company_859,Consumer Goods,North America
+860,Company_860,Consumer Goods,Oceania
+861,Company_861,Consumer Goods,Asia
+862,Company_862,Finance,Latin America
+863,Company_863,Healthcare,Asia
+864,Company_864,Consumer Goods,Africa
+865,Company_865,Consumer Goods,Asia
+866,Company_866,Utilities,Oceania
+867,Company_867,Retail,Oceania
+868,Company_868,Technology,Oceania
+869,Company_869,Healthcare,Africa
+870,Company_870,Finance,Latin America
+871,Company_871,Finance,Latin America
+872,Company_872,Consumer Goods,Latin America
+873,Company_873,Consumer Goods,Africa
+874,Company_874,Manufacturing,Europe
+875,Company_875,Healthcare,Asia
+876,Company_876,Healthcare,Oceania
+877,Company_877,Retail,North America
+878,Company_878,Consumer Goods,Asia
+879,Company_879,Utilities,Africa
+880,Company_880,Retail,Latin America
+881,Company_881,Utilities,Middle East
+882,Company_882,Energy,Europe
+883,Company_883,Technology,Africa
+884,Company_884,Consumer Goods,North America
+885,Company_885,Consumer Goods,Middle East
+886,Company_886,Retail,Oceania
+887,Company_887,Utilities,Oceania
+888,Company_888,Utilities,Oceania
+889,Company_889,Healthcare,Middle East
+890,Company_890,Utilities,Middle East
+891,Company_891,Manufacturing,North America
+892,Company_892,Transportation,Latin America
+893,Company_893,Finance,Oceania
+894,Company_894,Healthcare,North America
+895,Company_895,Finance,Oceania
+896,Company_896,Manufacturing,North America
+897,Company_897,Utilities,Oceania
+898,Company_898,Utilities,Oceania
+899,Company_899,Manufacturing,Asia
+900,Company_900,Utilities,Middle East
+901,Company_901,Consumer Goods,Europe
+902,Company_902,Utilities,Africa
+903,Company_903,Manufacturing,Oceania
+904,Company_904,Utilities,Europe
+905,Company_905,Manufacturing,Europe
+906,Company_906,Energy,Asia
+907,Company_907,Transportation,Oceania
+908,Company_908,Technology,Africa
+909,Company_909,Finance,Latin America
+910,Company_910,Finance,Oceania
+911,Company_911,Manufacturing,Europe
+912,Company_912,Finance,North America
+913,Company_913,Transportation,Oceania
+914,Company_914,Utilities,Oceania
+915,Company_915,Manufacturing,Middle East
+916,Company_916,Manufacturing,Oceania
+917,Company_917,Energy,Middle East
+918,Company_918,Utilities,Asia
+919,Company_919,Consumer Goods,Europe
+920,Company_920,Finance,Africa
+921,Company_921,Healthcare,Oceania
+922,Company_922,Healthcare,Oceania
+923,Company_923,Transportation,Middle East
+924,Company_924,Retail,Africa
+925,Company_925,Utilities,Africa
+926,Company_926,Retail,Asia
+927,Company_927,Manufacturing,Asia
+928,Company_928,Healthcare,Oceania
+929,Company_929,Manufacturing,North America
+930,Company_930,Transportation,Africa
+931,Company_931,Energy,Middle East
+932,Company_932,Manufacturing,Latin America
+933,Company_933,Consumer Goods,Latin America
+934,Company_934,Consumer Goods,Middle East
+935,Company_935,Consumer Goods,Oceania
+936,Company_936,Energy,Middle East
+937,Company_937,Technology,Europe
+938,Company_938,Consumer Goods,North America
+939,Company_939,Consumer Goods,Europe
+940,Company_940,Healthcare,Asia
+941,Company_941,Consumer Goods,Oceania
+942,Company_942,Transportation,Middle East
+943,Company_943,Transportation,Oceania
+944,Company_944,Finance,Europe
+945,Company_945,Finance,Europe
+946,Company_946,Healthcare,Oceania
+947,Company_947,Retail,Latin America
+948,Company_948,Retail,Africa
+949,Company_949,Transportation,Middle East
+950,Company_950,Technology,Africa
+951,Company_951,Transportation,Asia
+952,Company_952,Energy,Africa
+953,Company_953,Technology,Latin America
+954,Company_954,Utilities,Latin America
+955,Company_955,Transportation,Asia
+956,Company_956,Finance,Oceania
+957,Company_957,Technology,Latin America
+958,Company_958,Healthcare,Africa
+959,Company_959,Manufacturing,Middle East
+960,Company_960,Energy,Asia
+961,Company_961,Transportation,Europe
+962,Company_962,Finance,Middle East
+963,Company_963,Transportation,Africa
+964,Company_964,Technology,Middle East
+965,Company_965,Healthcare,Middle East
+966,Company_966,Manufacturing,Oceania
+967,Company_967,Technology,Europe
+968,Company_968,Healthcare,North America
+969,Company_969,Technology,Africa
+970,Company_970,Healthcare,Europe
+971,Company_971,Healthcare,Africa
+972,Company_972,Finance,Africa
+973,Company_973,Transportation,Latin America
+974,Company_974,Energy,Europe
+975,Company_975,Consumer Goods,Oceania
+976,Company_976,Utilities,Africa
+977,Company_977,Energy,Oceania
+978,Company_978,Transportation,North America
+979,Company_979,Energy,Middle East
+980,Company_980,Retail,Africa
+981,Company_981,Utilities,Africa
+982,Company_982,Technology,Europe
+983,Company_983,Retail,Oceania
+984,Company_984,Utilities,Latin America
+985,Company_985,Healthcare,Oceania
+986,Company_986,Retail,Latin America
+987,Company_987,Consumer Goods,Africa
+988,Company_988,Consumer Goods,Europe
+989,Company_989,Energy,Africa
+990,Company_990,Consumer Goods,Asia
+991,Company_991,Transportation,Middle East
+992,Company_992,Consumer Goods,North America
+993,Company_993,Healthcare,Latin America
+994,Company_994,Manufacturing,Europe
+995,Company_995,Healthcare,Latin America
+996,Company_996,Healthcare,Europe
+997,Company_997,Utilities,Africa
+998,Company_998,Healthcare,Oceania
+999,Company_999,Finance,Asia
+1000,Company_1000,Consumer Goods,Latin America
