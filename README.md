@@ -1,8 +1,8 @@
 # 2107540 Data Science for Environment and Sustainability
 
-![Coverpage](https://github.com/Chatrphol-Chula-Coursework/2107540_Data_Science_for_Environment_and_Sustainability/blob/main/2107540_Coverpage.jpg)
+![Coverpage](https://github.com/Chatrphol-Chula-Coursework/2107540_Data_Science_for_Environments_and_Sustainability/blob/main/2107540_Coverpage.jpg)
 
-Section 1, Semester 2025/1
+Section 1, Semester 2026/1
 Instructor: Department of Environmental Engineering, Chulalongkorn University
 
 ## Syllabus
